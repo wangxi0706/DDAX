@@ -1,5 +1,5 @@
 # blazedemGPU
-GPU based discrete element framework (spheres and polyhedra (experimential))
+GPU based discrete element framework 
 ============================================================================
 
 Graphics card (NVIDIA only): Atleast CUDA Compute 3.0 (Kepler only) 
